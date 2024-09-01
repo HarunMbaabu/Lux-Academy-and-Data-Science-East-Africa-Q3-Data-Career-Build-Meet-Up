@@ -8,7 +8,7 @@ Lux Academy and Data Science East Africa Q3 Data Career Build/Hackathon and Buil
 
 ### **Program:**
 
-**9:00 AM to 1:00 PM EAT 4 hours. ** 
+**9:00 AM to 1:00 PM EAT 4 hours.** 
 - Participant will take this time ro build their projects, document it, and create a presentation which will be prsented toward the end of the session. Please note that all these projects should be pushed to a github organization with a name of your choice.
 
 **1:00 PM to 1:30 PM EAT 30 minutes.** 
