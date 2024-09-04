@@ -58,13 +58,13 @@ This project demonstrates the process of analyzing solar electricity generation,
 ## 2). Hackathon Data Analysis  Challenge : Global Suicide Analysis. 
 Perform Exploratory Data Analysis (EDA) and prepare a report that you will present during the hackathon on world suicide rates. You can obtain the data from a source of your choice. Begin by cleaning the data and uploading it to a database of your choice. Then, perform EDA and generate the report by connecting directly to the database using Python.
 For the dataset source, please refer to the following resource: https://rpubs.com/siddharth2711/626546.
-Question 2.B: When does EDA (Exploratory Data Analysis) in a project end?
-3). Hackathon Challenge: Job Trends Monitoring Dashboard
+## Question 2.B: When does EDA (Exploratory Data Analysis) in a project end?
+## 3). Hackathon Challenge: Job Trends Monitoring Dashboard
 Create a dashboard to display job trends in the data industry. You can refer to this project for inspiration: https://skillquery.com/#Dashboard. Your dashboard should be able to showcase the top technologies and skills that employers are seeking in the data industry.
 For example, the dashboard should clearly indicate the top programming language that employers are looking for in data scientists.
 This project is valuable because it addresses a real problem: every job seeker wants to know the top skills that employers are seeking in their field so they can prepare accordingly.
 Note: In his video https://youtu.be/5Q0gB7imNOo?si=y3GvFF_dC9wxhp8B, Luke Barousse completed a similar project. Please use it as a guide, but do not copy the code.
-Question 3.B: In 10 sentences, explain what is unique about your dashboard and why someone should choose it over existing platforms.
+## Question 3.B: In 10 sentences, explain what is unique about your dashboard and why someone should choose it over existing platforms.
 
 ### **DATA SCIENCE PROJETCS.** 
 
